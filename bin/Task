@@ -1,0 +1,5 @@
+1. Write a java program to get highest value among the given numbers.
+
+103, 409, 455, 201, 450
+
+Note: use conditional operator(?:).
